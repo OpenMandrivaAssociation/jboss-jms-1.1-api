@@ -1,11 +1,12 @@
+%{?_javapackages_macros:%_javapackages_macros}
 %global namedreltag .Final
 %global namedversion %{version}%{?namedreltag}
 
 Name:          jboss-jms-1.1-api
 Version:       1.0.1
-Release:       9%{?dist}
+Release:       9.1
 Summary:       JBoss JMS API 1.1 Spec
-Group:         Development/Libraries
+Group:         Development/Java
 License:       CDDL or GPLv2 with exceptions
 URL:           http://www.jboss.org
 
