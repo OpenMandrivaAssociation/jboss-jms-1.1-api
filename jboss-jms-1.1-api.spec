@@ -4,7 +4,7 @@
 
 Name:          jboss-jms-1.1-api
 Version:       1.0.1
-Release:       9.2
+Release:       9.3
 Summary:       JBoss JMS API 1.1 Spec
 Group:         Development/Java
 License:       CDDL or GPLv2 with exceptions
