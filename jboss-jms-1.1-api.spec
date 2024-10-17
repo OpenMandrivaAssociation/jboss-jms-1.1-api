@@ -8,7 +8,7 @@ Release:       9.3
 Summary:       JBoss JMS API 1.1 Spec
 Group:         Development/Java
 License:       CDDL or GPLv2 with exceptions
-URL:           http://www.jboss.org
+URL:           https://www.jboss.org
 
 # git clone git://github.com/jboss/jboss-jms-api_spec.git jboss-jms-1.1-api
 # cd jboss-jms-1.1-api/ && git archive --format=tar --prefix=jboss-jms-1.1-api/ jboss-jms-api_1.1_spec-1.0.1.Final | xz > jboss-jms-1.1-api-1.0.1.Final.tar.xz
